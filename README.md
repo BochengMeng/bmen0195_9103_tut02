@@ -19,3 +19,5 @@
 
 Through my undergraduate classmate 2x (a very talented designer who is now studying design in Switzerland: https://xxuehaoze.info/
 ), I learned about his current teacher Ted Davis (https://www.fhnw.ch/en/people/ted-davis). Ted is a designer who focuses on Creative Coding and open-source contributor to P5.js. On his archive (https://teddavis.org/#), there is an open-source library for glitching and binary in the web browser (https://ffd8.github.io/p5.glitch/). This can partially help me design the glitch effect. (There are also many interesting projects on his website, such as a p5.js library to render graphics on analog vector displays.)
+
+[Link Text](https://www.google.comL)
