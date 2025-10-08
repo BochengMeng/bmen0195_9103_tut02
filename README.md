@@ -5,6 +5,7 @@
 ![CyberPunk 2077 Intro by CD Projekt.](./image/cyberpunk-logo-glitch-intro.jpg)
 > This is a blockquote.
 
+
 ![Ana de Armas as Joi in Blade Runner 2049.](./image/20251008204814_129_417.png)
 > This is a blockquote.
 
