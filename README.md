@@ -23,5 +23,5 @@ Through my undergraduate classmate [2x](https://xxuehaoze.info/) (a very talente
 > *Demo screenshot 1.
 
 ![https://ffd8.github.io/p5.glitch/](image/Snipaste_2025-10-08_23-29-53.png)
-> [*Demo screenshot 2.](https://editor.p5js.org/ffd8/sketches/5aew0QfB4)
+> [*Demo screenshot 2 and link to example code.](https://editor.p5js.org/ffd8/sketches/5aew0QfB4)
 
